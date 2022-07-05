@@ -18,3 +18,4 @@ Start the application:
 ```bash
 $ node index.js
 ```
+Now you can open the app at http://localhost:3000/ in your browser
