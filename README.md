@@ -5,17 +5,17 @@ A realtime chatting app made with nodeJS and socket.io
 Cloning the repository:
 
 ```bash
-$ git clone https://github.com/r-bhanu/WeChat.git
-$ cd WeChat
+git clone https://github.com/r-bhanu/WeChat.git
+cd WeChat
 ```
 Installing dependencies:
 
 ```bash
-$ npm install
+npm install
 ```
 Start the application:
 
 ```bash
-$ node index.js
+node index.js
 ```
 Now you can open the app at http://localhost:3000/ in your browser
