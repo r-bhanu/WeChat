@@ -1,5 +1,16 @@
 # WeChat
 A realtime chatting app made with nodeJS and socket.io
+
+## Screenshots
+
+![App Screenshot](singlechat.png)
+<br />
+<br />
+<br />
+<br />
+
+![App Screenshot](multichat.png)
+
 ## Installation
 
 Cloning the repository:
